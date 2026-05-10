@@ -13,15 +13,17 @@
 <td width="50%" valign="top">
 
 ### 🔭 Currently
-- Working with LLMs and building AI agents
-- Exploring new models and transformer architectures
-- Applying ML/DL to solve real-world problems
-
+- Building scalable software and AI solutions for real-world problems.
+- Working on backend systems, APIs, and distributed architectures.
+- Developing GenAI, RAG, and NLP-based applications.
+- Implementing CI/CD pipelines and deployment automation.
+- Creating intelligent, data-driven, and production-ready systems.
+- Combining software engineering with AI innovation to build impactful products.
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWczdzF6dzY1OW05NTQwcmYzcTJoMm9jcnpzeHBrazJiczkxcW00ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" alt="Coding"/>
 
 </td>
 </tr>
